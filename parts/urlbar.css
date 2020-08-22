@@ -8,7 +8,7 @@ URL bar
 
 /* URL bar max-width and centered hack */
 #urlbar {
-	max-width: 70% !important;
+	max-width: 80% !important;
 	margin: 0 15% !important;
 
 	/* URL bar and toolbar height */
@@ -119,7 +119,7 @@ URL bar
 
 .urlbarView-favicon,
 .urlbarView-type-icon {
-	display: none !important;
+	display: block !important;
 }
 
 .urlbarView-row[type="bookmark"] > span {
